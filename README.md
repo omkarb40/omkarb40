@@ -50,7 +50,8 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst :page_facing_up: fro
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarb40&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=omkarb40&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
+[![](https://visitcount.itsvg.in/api?id=omkarb40&icon=2&color=12)](https://visitcount.itsvg.in)

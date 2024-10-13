@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me :
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in Python and SQL. 
+Welcome to my GitHub profile! I'm a passionate Data Analyst :page_facing_up: from India, specializing in Python and SQL. 
 
 - 💻 Currently, I'm pursing my Masters in Data Science from University of Massachusetts Dartmouth, utilizing my expertise in Python and SQL, and specializing in Machine Learning and Deep Learning.
 - ✍️ I also enjoy sharing my knowledge through LinkedIn, where I post about my projects, tutorials, and my personal shennanigans.

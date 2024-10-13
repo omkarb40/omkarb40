@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst :page_facing_up: fro
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="aws" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg title="TensorFlow" alt="tensorflow" width="40" height="40"/>&nbsp;"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="tensorflow" width="40" height="40"/>&nbsp;"
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" title="Keras" alt="keras" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="numpy" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" title="MatPlotLib" alt="matplotlib" width="40" height="40"/>&nbsp;
@@ -46,5 +46,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst :page_facing_up: fro
 
 ---
 ### :fire: My Stats :
-
+![](https://github-readme-stats.vercel.app/api?username=gunjanrawat5&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gunjanrawat5&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanrawat5&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

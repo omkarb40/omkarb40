@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
+
 
 ### :man_technologist: About Me :
 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst <img src="https://me
 - 💻 Currently, I'm pursing my Masters in Data Science from University of Massachusetts Dartmouth, utilizing my expertise in Python and SQL, and specializing in Machine Learning and Deep Learning.
 - ✍️ I also enjoy sharing my knowledge through LinkedIn, where I post about my projects, tutorials, and my personal shennanigans.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omkarbadadale1620/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Omkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omkarbadadale1620/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

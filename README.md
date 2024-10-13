@@ -1,11 +1,11 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkyN3Jnbm1qbHgyZGNtcXo2NzVsOWNpYW5uOXVsY3NrNzRqOTV3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif" width="100"/>
-</div>
+</div> -->
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/omkarbadadale1620/">
+  <!-- <a href="https://www.linkedin.com/in/omkarbadadale1620/"> -->
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- <a href="your-youtube-URL">

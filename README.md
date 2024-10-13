@@ -42,11 +42,15 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst :page_facing_up: fro
 ---
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-Omkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omkarbadadale1620/)
-[![Gmail Badge]()]
 
 ---
 ### :fire: My Stats :
-![](https://github-readme-stats.vercel.app/api?username=gunjanrawat5&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gunjanrawat5&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanrawat5&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=omkarb40&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=omkarb40&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarb40&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst :page_facing_up: fro
 - ✍️ I also enjoy sharing my knowledge through LinkedIn, where I post about my projects, tutorials, and my personal shennanigans.
 - 👯 I’m looking to collaborate on any Data Science or Big Data projects.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices. I also love to cook 😋.
-- 🌱 I’m currently learning Machine Learning and Deep Learning Algorithms.
+- 🌱 I’m currently working on a Big Data Project which is a Health Chatbot using AWS Bedrock and training using LLMs.
 <!-- - 📫 How to reach me: &nbsp;  -->
 ---
 

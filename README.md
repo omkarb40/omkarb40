@@ -54,7 +54,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Core Competencies:** A/B Testing, Hypothesis Testing, Regression, Time Series, Model Validation, Feature Engineering, NLP, LLMs, MLOps, CI/CD Pipelines
+### Core Competencies
+A/B Testing, Hypothesis Testing, Regression, Time Series, Model Validation, Feature Engineering, NLP, LLMs, MLOps, CI/CD Pipelines
+
 ---
 
 ## 🔭 Featured Projects

@@ -1,66 +1,106 @@
-<h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkyN3Jnbm1qbHgyZGNtcXo2NzVsOWNpYW5uOXVsY3NrNzRqOTV3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8RLgaGFiwXsZc8YUw/giphy.gif" width="300" height="300"/>
-</div>
+# Hi, I'm Omkar Badadale
 
-
----
-### :man_technologist: About Me :
-
-Welcome to my GitHub profile! I'm a passionate Data Analyst :page_facing_up: from India, specializing in Python and SQL. 
-
-- 💻 Currently, I'm pursing my Masters in Data Science from University of Massachusetts Dartmouth, utilizing my expertise in Python and SQL, and specializing in Machine Learning and Deep Learning.
-- ✍️ I also enjoy sharing my knowledge through LinkedIn, where I post about my projects, tutorials, and my personal shennanigans.
-- 👯 I’m looking to collaborate on any Data Science or Big Data projects.
-- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices. I also love to cook 😋.
-- 🌱 I’m currently working on a Big Data Project which is a Health Chatbot using AWS Bedrock and training using LLMs.
-<!-- - 📫 How to reach me: &nbsp;  -->
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="SQL" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="aws" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="tensorflow" width="40" height="40"/>&nbsp;"
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" title="Keras" alt="keras" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="numpy" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" title="MatPlotLib" alt="matplotlib" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; -->
-</div>
-
----
-## 🌐 Socials:
-[![Linkedin Badge](https://img.shields.io/badge/-Omkar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omkarbadadale1620/)
+- 🔭 I'm currently pursuing my **Master's in Data Science** at **University of Massachusetts Dartmouth**
+- 📍 Based in **Greater Boston, MA** (Open to relocation)
+- 🚀 Data Science - Graduate Research Assistant | Research co-author on **Sustainable Analytics, INFORMS 2025**
+- 💼 Ex-Senior Data Analyst at **VOIS (Vodafone Intelligent Solutions)** | 4x Star Performer of the Month
+- ✨ Passionate about building **scalable ML pipelines** and transforming complex data into actionable insights
 
 ---
 
-### 😉: Programming Joke :
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## 🔹 About Me
+
+- I enjoy building **predictive models**, **ML systems**, and **data-driven solutions** that solve real-world problems
+- 💡 My interests include: **Machine Learning | Deep Learning | Data Science | Cloud Engineering | MLOps**
+- 🛠️ Proficient in **Python, SQL, TensorFlow, PyTorch, AWS, Azure**
+- 📈 I love developing end-to-end ML pipelines, from data engineering to model deployment and monitoring
+- 🔬 Currently working on RAG AI Agent & MLOps for clinical knowledge workflows
 
 ---
-### :fire: My Stats :
-![](https://github-readme-stats.vercel.app/api?username=omkarb40&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=omkarb40&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarb40&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🚀 Skills & Tools
+
+### Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+
+### Cloud & Data Engineering
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Visualization & BI
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Core Competencies:** A/B Testing, Hypothesis Testing, Regression, Time Series, Model Validation, Feature Engineering, NLP, LLMs, MLOps, CI/CD Pipelines
+---
+
+## 🔭 Featured Projects
+
+* **📌 RAG AI Agent & MLOps** – Master's Capstone project building an end-to-end RAG platform ingesting 1,000+ medical documents, reducing LLM hallucinations by ~30% through integrated evaluation and monitoring pipelines
+
+* **📌 BioBERT Drug Sentiment Classification** – Fine-tuned BioBERT on 2,900+ drug reviews for domain-specific sentiment analysis, achieving strong predictive performance validated on 600+ test samples for pharma analytics
+
+* **📌 Pneumonia Detection from Chest X-Rays** – Attention-based CNN model using PyTorch on 5,800+ chest X-ray images to automate pneumonia detection with improved diagnostic reliability
+
+* **📌 CardioRisk — Early Heart Disease Prediction** – Recall-focused neural network on 250K+ patient records to identify high-risk individuals through interpretable attention mechanisms and imbalance-aware training
+
+* **📌 ESG & Sustainability Analytics** – ML models (XGBoost, Random Forest) on multi-source ESG and financial data for 1.35K companies across 33 countries, explaining ~50% of variation in ESG pillar weights
 
 ---
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omkarb40&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 💼 Experience
 
+**🔬 Graduate Research Assistant** — University of Massachusetts Dartmouth (Jan 2025 - Present)
+- 📊 Developed ML models on ESG and financial data for 1.35K companies across 33 countries
+- 🤖 Designed scalable analytics pipeline with PCA and clustering across 16 industries and 4 regions
+- 📈 Modeled supply-chain network structures for 30 global IT firms, improving early sustainability risk detection by ~18%
+- 📝 Research co-author on Sustainable Analytics, INFORMS 2025
 
+**💼 Senior Data Analyst** — VOIS (Vodafone Intelligent Solutions), Pune, India (Aug 2022 - Aug 2024)
+- 📊 Designed SQL-based analytics pipelines processing 10M+ customer records across EU markets
+- 📈 Developed Power BI and Tableau dashboards tracking 20+ KPIs, boosting client revenue by 15%
+- 🤖 Reduced manual reporting effort by 20% through automated workflows
+- 🎯 Improved network issue detection accuracy by 10% using anomaly detection
+- 🌟 4x Star Performer of the Month
+
+**🚀 Data Science Intern** — Entuple Technologies, Mumbai, India (Apr 2021 - Jul 2021)
+- 🔧 Built Python-based data cleaning pipelines across 15+ large datasets
+- 📊 Developed SQL and Python ETL processes improving data quality by 15%
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omkarb40&icon=2&color=12)](https://visitcount.itsvg.in)
+
+## 📫 How to Reach Me
+
+* 📧 Email: **[omkar.badadale.08@gmail.com](mailto:omkar.badadale.08@gmail.com)**
+* 🔗 LinkedIn: [https://www.linkedin.com/in/omkarbadadale1620/](https://www.linkedin.com/in/omkarbadadale1620/)
+* 🌐 Portfolio: [https://omkarb40.github.io/](https://omkarb40.github.io/)
+* 💻 GitHub: [https://github.com/omkarb40](https://github.com/omkarb40)
+
+---
+
+✨ I'm open to **collaborations, full-time opportunities, and research projects** in data science and machine learning.
+
+💬 Let's connect and build something impactful together!

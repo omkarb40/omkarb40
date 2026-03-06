@@ -109,7 +109,7 @@ A/B Testing, Hypothesis Testing, Regression, Time Series, Model Validation, Clus
 
 | Certificate | Issuer | Year |
 |-------------|--------|------|
-| AWS Certified AI Practitioner (AIFC01) Prep | Amazon Web Services | 2025 |
+| Data Science Professional Certificate | Coursera | 2025 |
 | Databricks Fundamentals | Databricks | 2025 |
 | Data Platforms: Spark to Snowflake | LinkedIn Learning | 2026 |
 | Intro to Snowflake for Devs, Data Scientists & Data Engineers | Snowflake | 2026 |
@@ -117,7 +117,6 @@ A/B Testing, Hypothesis Testing, Regression, Time Series, Model Validation, Clus
 | Introduction to Artificial Intelligence | LinkedIn Learning | 2025 |
 | What Is Generative AI | LinkedIn Learning | 2025 |
 | Generative AI: The Evolution of Thoughtful Online Search | LinkedIn Learning | 2025 |
-| Data Science Professional Certificate | Coursera | 2025 |
 
 📁 [View all certificates →](https://github.com/omkarb40/certifications)
 

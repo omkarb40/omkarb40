@@ -1,6 +1,6 @@
 # Hi, I'm Omkar Badadale 👋
 
-🎓 MS in Data Science @UMass Dartmouth &nbsp;|&nbsp; 💼 Data Scientist @Citi &nbsp;|&nbsp; 🔬 Research Co-author, Journal of Cleaner Production 2026 , Journal of Physical Distribution & Logistics Management 2026 and INFORMS 2025.
+🎓 MS in Data Science @UMass Dartmouth &nbsp;|&nbsp; 🔬 Research Co-author, Journal of Cleaner Production 2026 , Journal of Physical Distribution & Logistics Management 2026 and INFORMS 2025.
 
 ---
 

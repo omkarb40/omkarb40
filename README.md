@@ -1,52 +1,51 @@
 # Hi, I'm Omkar Badadale 👋
 
-🎓 MS in Data Science @UMass Dartmouth (Boston) &nbsp;|&nbsp; 💼 Ex-Senior Data Analyst @Vodafone &nbsp;|&nbsp; 🔬 Research Co-author, INFORMS 2025
+🎓 MS in Data Science @UMass Dartmouth &nbsp;|&nbsp; 💼 Data Scientist @Citi &nbsp;|&nbsp; 🔬 Research Co-author, Journal of Cleaner Production 2026 , Journal of Physical Distribution & Logistics Management 2026 and INFORMS 2025.
 
 ---
 
 ## 🚀 What I Do
 
-- Build end-to-end ML pipelines — from raw data to deployed, monitored models
-- Apply statistical modeling and predictive analytics to large-scale operational and financial datasets
-- Develop AI-powered applications using LLMs, RAG, and vector search
-- Design scalable data engineering systems with real-time ingestion and transformation workflows
-- Translate complex model outputs into clear, actionable insights for business stakeholders
+- Build and evaluate ML models for financial risk, churn prediction, and customer analytics
+- Develop NLP pipelines — sentiment analysis, topic modeling, RAG, and LLM-powered retrieval
+- Engineer large-scale analytical datasets using Python, SQL, and PySpark
+- Apply SHAP and model explainability techniques to translate predictions into business decisions
+- Design real-time data pipelines with Kafka, Airflow, dbt, and Snowflake
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, R  
-**ML/AI:** Scikit-learn, XGBoost, TensorFlow, PyTorch, NLP, Transformers, SHAP, RAG  
-**Analytics & Viz:** Tableau, Power BI  
-**Data Engineering:** BigQuery, Snowflake, PySpark, Kafka, dbt, Airflow, ETL/ELT Pipelines  
-**Cloud & Tools:** AWS, Azure, Docker, Git, CI/CD Pipelines, REST APIs 
+**Languages & Analysis:** Python, SQL, R, Pandas, NumPy, EDA<br>
+**ML & Statistics:** XGBoost, Random Forest, Logistic Regression, Clustering, Hypothesis Testing, Feature Engineering, SHAP<br>
+**NLP & GenAI:** NLP, TF-IDF, Sentiment Analysis, LLMs, RAG, Text Embeddings, Vector Search, Prompt Engineering<br>
+**Data Engineering:** PySpark, Apache Spark, Kafka, Airflow, dbt, Snowflake, BigQuery, ETL/ELT<br>
+**Cloud & MLOps:** AWS (S3, SageMaker, EMR), MLflow, Docker, Git, CI/CD<br>
+**BI:** Power BI, Tableau, KPI Reporting<br>
 
 ---
 
 ## 📊 What Sets Me Apart
 
-- 3+ years delivering ML and analytics solutions across healthcare, finance, and telecom domains
-- Built pipelines processing 10M+ records with measurable improvements in accuracy and latency
-- Published ESG sustainability research using ML and graph analytics on 1.35K companies across 33 countries
-- Blend of data science, engineering, and business thinking — I care about impact, not just models
+- 4+ years across financial services, telecom, and consulting — I've shipped models that get used, not just prototyped
+- Built fraud/AML detection at Citi with ROC-AUC of 0.88 and a 15% reduction in false-positive alerts
+- Churn modeling at Vodafone: 0.84 ROC-AUC across 1M+ subscriber records
+- Peer-reviewed publication in Journal of Cleaner Production on ESG analytics across 33 countries.
+- Equal focus on model performance and business explainability — SHAP is always in my workflow
 
 ---
 
 ## 🔭 Featured Projects
 
-**📌 Real-Time Banking Data Pipeline** — PostgreSQL, Kafka, Debezium, Airflow, Snowflake, dbt  
-Scalable medallion architecture with CDC ingestion, Docker containerization, CI/CD via GitHub Actions, and data quality monitoring
-
-**📌 RAG AI Agent & MLOps** — Master's Capstone  
-Intelligent search platform using NLP, vector embeddings, and RAG to extract insights from large unstructured datasets
-
-**📌 Suppy Chain Analytics** — NEDSI 2026, Philadelphia
-Presented Supply Chain Sustainabilty performance analytics for 60 IT sector firms over a 10 yr period.  
-
-**📌 ESG Sustainability Analytics** — INFORMS 2025  
-Supervised ML + graph analytics on multi-source ESG data for 1.35K companies, improving sustainability risk detection by ~18%
- 
+| Project | Description |
+|---|---|
+| [**PharmaRAG**](https://github.com/omkarb40/pharmaRAG) | Healthcare RAG Agent with MLOps — LLM-powered clinical document retrieval with vector search and response validation |
+| [**ESG Sustainability Analytics**](https://doi.org/10.1016/j.jclepro.2026.148811) | *Published — Journal of Cleaner Production* — ML + graph analytics on 1.35K companies across 33 countries |
+| [**Banking Data Pipeline**](https://github.com/omkarb40/Banking-data-pipeline) | Production-grade real-time pipeline: CDC via Kafka + Debezium → Snowflake/dbt, medallion architecture, CI/CD |
+| [**Anti-Money Laundering AML**](https://github.com/omkarb40/anti-money-laundering-AML-) | Reproducible AML investigation copilot comparing LangGraph, CrewAI, and OpenAI Agents SDK on IBM AMLSim |
+| [**Hospital Patient Flow Analytics**](https://github.com/omkarb40/hospital-patient-flow-analytics) | Healthcare data engineering on Azure Databricks + Azure Data Factory |
+| [**Pneumonia Detection CNN**](https://github.com/omkarb40/pneumonia-detection-cnn) | Attention-based CNN on 5,800+ chest X-rays for automated pneumonia detection |
+| [**Drug Review Sentiment Analysis**](https://github.com/omkarb40/Drug-Review-Sentiment-Analysis) | BioBERT fine-tuned on 2,900+ clinical records for pharma-domain sentiment classification |
 
 ---
 
